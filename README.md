@@ -7,11 +7,57 @@ This repository contains the fix for "No results found matching your query", fou
 " Instantly download any song! :guitar: :notes: :musical_score: :trumpet: :violin: ". 
 
 This is a fix to the non-running version of the original Instant music downloader. Code has been pulled and forked from the original repository and has been re-organized for running. Note : This is a temporary running fix. Or if you want the music downloader to just work, this has been tested to run on Ubuntu 20. 
+<br />
 
 ## Disclaimer
-As per the original author, any work here is "use at your own risk". There are no guarantee on this software in any way or form possible.
+As per the original author, any work here is "use at your own risk". There are no guarantee on this software in any way or form possible. I am <b> not resposible </b> for anything which may occur from the use of this software. <b> "use at your own risk" </b>.
 
 "Downloading copyrighted material may be illegal in your country. Use at your own risk."
+<br />
+
+## Install & Run instructions
+
+<b> Only python3 supported </b>.
+
+Runs on Ubuntu or any Debian derived linux distros as it relies on debian's apt package manager.
+
+Python3 and pip3 needs to be installed. If not installed, run the following commands
+```
+sudo apt-get update
+sudo apt-get install python3 -y
+sudo apt install python3-pip -y
+```
+
+Clone this repository and ```cd``` into this repo.
+
+
+To install the prerequisites, first allow the prerequisite installer to be a runnable.
+
+```
+sudo chmod +x ./install-prerequisites.sh
+```
+
+then run it
+
+```
+./install-prerequisites.sh
+```
+
+Once it is done, you should be able to run by typing
+
+```
+./run.sh
+```
+
+And voila, la fin.
+<br /><br />
+
+To run this app again, either ```cd``` into this repo's folder and use ```./run.sh```,
+
+or set an alias to the ```run.sh``` file. More information on how to set up aliases can be found in this [link by linuxize](https://linuxize.com/post/how-to-create-bash-aliases/)
+
+<br />
+<br />
 
 ## Original Read Me
 
