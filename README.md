@@ -1,3 +1,22 @@
+# Instant Music Downloader Working version fix.
+
+This repository contains the fix for "No results found matching your query", found when running Linux (Ubuntu 20).
+
+## Description
+
+" Instantly download any song! :guitar: :notes: :musical_score: :trumpet: :violin: ". 
+
+This is a fix to the non-running version of the original Instant music downloader. Code has been pulled and forked from the original repository and has been re-organized for running. Note : This is a temporary running fix. Or if you want the music downloader to just work, this has been tested to run on Ubuntu 20. 
+
+## Disclaimer
+As per the original author, any work here is "use at your own risk". There are no guarantee on this software in any way or form possible.
+
+"Downloading copyrighted material may be illegal in your country. Use at your own risk."
+
+## Original Read Me
+
+Below is the original README from the original Author.
+
 # Instantly download any song! :guitar: :notes: :musical_score: :trumpet: :violin:
 
 [![Join the chat at https://gitter.im/yask123/Instant-Music-Downloader](https://badges.gitter.im/yask123/Instant-Music-Downloader.svg)](https://gitter.im/yask123/Instant-Music-Downloader?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
