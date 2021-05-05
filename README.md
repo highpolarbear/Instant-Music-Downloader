@@ -6,7 +6,9 @@ This repository contains the fix for "No results found matching your query", fou
 
 " Instantly download any song! :guitar: :notes: :musical_score: :trumpet: :violin: ". 
 
-This is a fix to the non-running version of the original Instant music downloader. Code has been pulled and forked from the original repository and has been re-organized for running. Note : This is a temporary running fix. Or if you want the music downloader to just work, this has been tested to run on Ubuntu 20. 
+This is a fix to the non-running version of the original Instant music downloader. Code has been pulled and forked from the original repository and has been re-organized for running.
+
+Note : This is a temporary running fix. Or if you want the music downloader to just work, this has been tested to run on Ubuntu 20. 
 <br />
 
 ## Disclaimer
@@ -19,7 +21,7 @@ As per the original author, any work here is "use at your own risk". There are n
 
 <b> Only python3 supported </b>.
 
-Runs on Ubuntu or any Debian derived linux distros as it relies on debian's apt package manager.
+Runs only on Ubuntu or any Debian derived linux distros as it relies on debian's apt package manager.
 
 Python3 and pip3 needs to be installed. If not installed, run the following commands
 ```
